@@ -6,9 +6,9 @@ import threading
 from telebot import types
 
 # Bot config
-TOKEN = "8176172554:AAGTKG39iV4V01ZDoyjBHadG19AooWCFRmM"
-OWNER_ID = 7668345766
-FRIEND_ID = 6558300946
+TOKEN = "8471095733:AAHpBQmvv-Y9csdgpA7NtmfA-pT2gPRiEFw"
+OWNER_ID = 8452694781
+FRIEND_ID = 5971805747
 bot = telebot.TeleBot(TOKEN)
 
 # Files
