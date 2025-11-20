@@ -6,7 +6,7 @@ import threading
 from telebot import types
 
 # Bot config
-TOKEN = "8279759085:AAFXPkCQmJUsnm08M9BYISkktyE323ezDPw"
+TOKEN = "8223129975:AAFbmGxYxBVAfCboQPpA7Nw-dDA6tddtyRQ"
 
 # Owner + Friends IDs (sabko ek list me rakho)
 SUPER_ADMINS = [8310937768, 7299000709, 7501472798]  # aur IDs yaha add karo
