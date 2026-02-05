@@ -9,7 +9,7 @@ from telebot import types
 TOKEN = "8407675014:AAHsLYYOh4FgV0lQ5YpK2MaPUZ6mC-Pq3LM"
 
 # Owner + Friends IDs (sabko ek list me rakho)
-SUPER_ADMINS = [8573319976]  # aur IDs yaha add karo
+SUPER_ADMINS = [8573319976, 7501472798, 2145828547, 7299000709]  # aur IDs yaha add karo
 
 bot = telebot.TeleBot(TOKEN)
 
